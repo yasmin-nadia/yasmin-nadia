@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yasmin Nadia</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Github merge-conflict resolve](https://github.com/mahfuj-ahmed-jim/git-github-exam)
+- 🔭 I’m currently working on [Mid-term Project]
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [My All Github Repositories](https://github.com/nadia-yasmin)
